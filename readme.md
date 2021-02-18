@@ -1,0 +1,1 @@
+strongly inspired from https://kenhaggerty.com/articles/article/aspnet-core-22-bootstrapnative-client-validation
